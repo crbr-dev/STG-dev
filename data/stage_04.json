@@ -1,0 +1,69 @@
+{
+  "id": 4,
+  "name": "WANGAN SUBWAY LINE",
+  "hero": "SELECT YOUR ESPER",
+  "duration": 212.0,
+  "boss_time": 117.0,
+  "boss_attack_time": 125.0,
+  "boss_label": "ARMORED ENFORCER",
+  "background_directory": "res://assets/stage4/backgrounds",
+  "map": "res://assets/stage4/backgrounds/stage4_map.png",
+  "background_count": 6,
+  "sprite_directory": "res://assets/stage4/sprites",
+  "patterns": "res://scripts/stage4_patterns.gd",
+  "camera": [],
+  "phase_times": [
+    21.5,
+    45.0,
+    80.0,
+    105.0,
+    116.5
+  ],
+  "large_enemy_kinds": [
+    "silver_interceptor",
+    "rail_fortress",
+    "boss"
+  ],
+  "enemy_stats": {
+    "armored_esper": [
+      130,
+      115,
+      30
+    ],
+    "silver_scout": [
+      68,
+      155,
+      40
+    ],
+    "orange_pod_drone": [
+      210,
+      100,
+      52
+    ],
+    "silver_interceptor": [
+      6200,
+      100,
+      155
+    ],
+    "rail_fortress": [
+      2900,
+      24,
+      110
+    ],
+    "hoverboat": [
+      1100,
+      100,
+      78
+    ],
+    "soldier": [
+      24,
+      100,
+      20
+    ],
+    "boss": [
+      64000,
+      0,
+      180
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": 2,
+  "name": "CASINO OF THE LOST",
+  "hero": "J-B 5TH",
+  "duration": 150.0,
+  "boss_time": 98.0,
+  "midboss_active_time": 54.5,
+  "boss_attack_time": 104.0,
+  "background_directory": "res://assets/stage2/backgrounds",
+  "map": "res://assets/stage2/backgrounds/stage2_map.png",
+  "background_count": 6,
+  "sprite_directory": "res://assets/stage2/sprites",
+  "patterns": "res://scripts/stage2_patterns.gd",
+  "camera": [],
+  "phase_times": [
+    54.0,
+    81.0,
+    97.5
+  ],
+  "enemy_stats": {
+    "soldier": [
+      24,
+      100,
+      21
+    ],
+    "esper": [
+      320,
+      105,
+      40
+    ],
+    "drone": [
+      65,
+      140,
+      33
+    ],
+    "tank": [
+      320,
+      65,
+      58
+    ],
+    "turret": [
+      380,
+      0,
+      48
+    ],
+    "midboss": [
+      3600,
+      100,
+      110
+    ],
+    "boss": [
+      15000,
+      0,
+      245
+    ]
+  },
+  "intro": {
+    "path": "res://assets/cinematics/stage2_revenge.ogv"
+  }
+}

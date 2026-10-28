@@ -1,0 +1,67 @@
+{
+  "id": 3,
+  "name": "SHELTER AT THE WATERFRONT",
+  "hero": "IRORI MIMASAKA",
+  "duration": 162.0,
+  "boss_time": 109.0,
+  "boss_attack_time": 115.0,
+  "boss_label": "TWIN-ROTOR DREADNOUGHT",
+  "background_directory": "res://assets/stage3/backgrounds",
+  "map": "res://assets/stage3/backgrounds/stage3_map.png",
+  "background_count": 6,
+  "sprite_directory": "res://assets/stage3/sprites",
+  "patterns": "res://scripts/stage3_patterns.gd",
+  "camera": [],
+  "phase_times": [
+    24.0,
+    37.5,
+    62.0,
+    91.0,
+    108.5
+  ],
+  "enemy_stats": {
+    "soldier": [
+      24,
+      100,
+      20
+    ],
+    "tank": [
+      270,
+      60,
+      46
+    ],
+    "drone": [
+      75,
+      145,
+      32
+    ],
+    "gunship": [
+      280,
+      110,
+      58
+    ],
+    "rocket": [
+      750,
+      85,
+      63
+    ],
+    "hoverboat": [
+      1100,
+      95,
+      78
+    ],
+    "midboss": [
+      3200,
+      78,
+      105
+    ],
+    "boss": [
+      28500,
+      0,
+      232
+    ]
+  },
+  "intro": {
+    "path": "res://assets/cinematics/stage3_shelter.ogv"
+  }
+}

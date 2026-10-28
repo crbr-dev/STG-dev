@@ -1,0 +1,215 @@
+{
+  "textures": {
+    "res://assets/sprites/player.svg": {
+      "kind": "actor",
+      "normal": "res://assets/lighting/sprites/player_normal.png"
+    },
+    "res://assets/sprites/drone.svg": {
+      "kind": "actor",
+      "normal": "res://assets/lighting/sprites/drone_normal.png"
+    },
+    "res://assets/sprites/tank.svg": {
+      "kind": "actor",
+      "normal": "res://assets/lighting/sprites/tank_normal.png"
+    },
+    "res://assets/sprites/boss.svg": {
+      "kind": "actor",
+      "normal": "res://assets/lighting/sprites/boss_normal.png"
+    },
+    "res://assets/sprites/midboss.svg": {
+      "kind": "actor",
+      "normal": "res://assets/lighting/sprites/midboss_normal.png"
+    },
+    "res://assets/sprites/soldier.svg": {
+      "kind": "actor",
+      "normal": "res://assets/lighting/sprites/soldier_normal.png"
+    },
+    "res://assets/stage2/sprites/player_idle.png": {
+      "kind": "actor",
+      "normal": "res://assets/lighting/stage2/sprites/player_idle_normal.png"
+    },
+    "res://assets/stage2/sprites/boss_left_pod.png": {
+      "kind": "actor",
+      "normal": "res://assets/lighting/stage2/sprites/boss_left_pod_normal.png"
+    },
+    "res://assets/stage2/sprites/boss_right_pod.png": {
+      "kind": "actor",
+      "normal": "res://assets/lighting/stage2/sprites/boss_right_pod_normal.png"
+    },
+    "res://assets/stage2/sprites/boss_core.png": {
+      "kind": "actor",
+      "normal": "res://assets/lighting/stage2/sprites/boss_core_normal.png"
+    },
+    "res://assets/stage2/sprites/player_fire.png": {
+      "kind": "actor",
+      "normal": "res://assets/lighting/stage2/sprites/player_fire_normal.png"
+    },
+    "res://assets/stage2/sprites/player_focus.png": {
+      "kind": "actor",
+      "normal": "res://assets/lighting/stage2/sprites/player_focus_normal.png"
+    },
+    "res://assets/stage2/sprites/soldier.png": {
+      "kind": "actor",
+      "normal": "res://assets/lighting/stage2/sprites/soldier_normal.png",
+      "diffuse": "res://assets/lighting/stage2/sprites/soldier_diffuse.png"
+    },
+    "res://assets/stage2/sprites/esper.png": {
+      "kind": "actor",
+      "normal": "res://assets/lighting/stage2/sprites/esper_normal.png"
+    },
+    "res://assets/stage2/sprites/drone.png": {
+      "kind": "actor",
+      "normal": "res://assets/lighting/stage2/sprites/drone_normal.png",
+      "diffuse": "res://assets/lighting/stage2/sprites/drone_diffuse.png"
+    },
+    "res://assets/stage2/sprites/tank.png": {
+      "kind": "actor",
+      "normal": "res://assets/lighting/stage2/sprites/tank_normal.png",
+      "diffuse": "res://assets/lighting/stage2/sprites/tank_diffuse.png"
+    },
+    "res://assets/stage2/sprites/midboss.png": {
+      "kind": "actor",
+      "normal": "res://assets/lighting/stage2/sprites/midboss_normal.png"
+    },
+    "res://assets/stage2/sprites/player_fire_left.png": {
+      "kind": "actor",
+      "normal": "res://assets/lighting/stage2/sprites/player_fire_left_normal.png"
+    },
+    "res://assets/stage2/sprites/player_fire_right.png": {
+      "kind": "actor",
+      "normal": "res://assets/lighting/stage2/sprites/player_fire_right_normal.png"
+    },
+    "res://assets/stage3/sprites/player_idle.png": {
+      "kind": "actor",
+      "normal": "res://assets/lighting/stage3/sprites/player_idle_normal.png"
+    },
+    "res://assets/stage3/sprites/player_fire.png": {
+      "kind": "actor",
+      "normal": "res://assets/lighting/stage3/sprites/player_fire_normal.png"
+    },
+    "res://assets/stage3/sprites/player_focus.png": {
+      "kind": "actor",
+      "normal": "res://assets/lighting/stage3/sprites/player_focus_normal.png"
+    },
+    "res://assets/stage3/sprites/player_fire_left.png": {
+      "kind": "actor",
+      "normal": "res://assets/lighting/stage3/sprites/player_fire_left_normal.png"
+    },
+    "res://assets/stage3/sprites/player_fire_right.png": {
+      "kind": "actor",
+      "normal": "res://assets/lighting/stage3/sprites/player_fire_right_normal.png"
+    },
+    "res://assets/stage3/sprites/tank.png": {
+      "kind": "actor",
+      "normal": "res://assets/lighting/stage3/sprites/tank_normal.png"
+    },
+    "res://assets/stage3/sprites/drone.png": {
+      "kind": "actor",
+      "normal": "res://assets/lighting/stage3/sprites/drone_normal.png"
+    },
+    "res://assets/stage3/sprites/gunship.png": {
+      "kind": "actor",
+      "normal": "res://assets/lighting/stage3/sprites/gunship_normal.png"
+    },
+    "res://assets/stage3/sprites/hoverboat.png": {
+      "kind": "actor",
+      "normal": "res://assets/lighting/stage3/sprites/hoverboat_normal.png"
+    },
+    "res://assets/stage3/sprites/rocket.png": {
+      "kind": "actor",
+      "normal": "res://assets/lighting/stage3/sprites/rocket_normal.png"
+    },
+    "res://assets/stage3/sprites/boss.png": {
+      "kind": "actor",
+      "normal": "res://assets/lighting/stage3/sprites/boss_normal.png"
+    },
+    "res://assets/stage3/sprites/midboss.png": {
+      "kind": "actor",
+      "normal": "res://assets/lighting/stage3/sprites/midboss_normal.png"
+    },
+    "res://assets/stage3/sprites/boss_damaged.png": {
+      "kind": "actor",
+      "normal": "res://assets/lighting/stage3/sprites/boss_damaged_normal.png"
+    },
+    "res://assets/stage4/sprites/silver_interceptor.png": {
+      "kind": "actor",
+      "normal": "res://assets/lighting/stage4/sprites/silver_interceptor_normal.png"
+    },
+    "res://assets/stage4/sprites/rail_fortress.png": {
+      "kind": "actor",
+      "normal": "res://assets/lighting/stage4/sprites/rail_fortress_normal.png"
+    },
+    "res://assets/stage4/sprites/boss.png": {
+      "kind": "actor",
+      "normal": "res://assets/lighting/stage4/sprites/boss_normal.png"
+    },
+    "res://assets/stage4/sprites/armored_esper.png": {
+      "kind": "actor",
+      "normal": "res://assets/lighting/stage4/sprites/armored_esper_normal.png"
+    },
+    "res://assets/stage4/sprites/silver_scout.png": {
+      "kind": "actor",
+      "normal": "res://assets/lighting/stage4/sprites/silver_scout_normal.png"
+    },
+    "res://assets/stage4/sprites/orange_pod_drone.png": {
+      "kind": "actor",
+      "normal": "res://assets/lighting/stage4/sprites/orange_pod_drone_normal.png"
+    },
+    "res://assets/stage5/sprites/yellow_jeep.png": {
+      "kind": "actor",
+      "normal": "res://assets/lighting/stage5/sprites/yellow_jeep_normal.png"
+    },
+    "res://assets/stage5/sprites/disk_turret.png": {
+      "kind": "actor",
+      "normal": "res://assets/lighting/stage5/sprites/disk_turret_normal.png"
+    },
+    "res://assets/stage5/sprites/yellow_heavy_tank.png": {
+      "kind": "actor",
+      "normal": "res://assets/lighting/stage5/sprites/yellow_heavy_tank_normal.png"
+    },
+    "res://assets/stage5/sprites/green_heavy_tank.png": {
+      "kind": "actor",
+      "normal": "res://assets/lighting/stage5/sprites/green_heavy_tank_normal.png"
+    },
+    "res://assets/stage5/sprites/maid.png": {
+      "kind": "actor",
+      "normal": "res://assets/lighting/stage5/sprites/maid_normal.png"
+    },
+    "res://assets/stage5/sprites/maid_jump.png": {
+      "kind": "actor",
+      "normal": "res://assets/lighting/stage5/sprites/maid_jump_normal.png"
+    },
+    "res://assets/backgrounds/stage1_map.png": {
+      "kind": "background",
+      "normal": "res://assets/lighting/backgrounds/stage1_map_normal.png"
+    },
+    "res://assets/stage2/backgrounds/stage2_map.png": {
+      "kind": "background",
+      "normal": "res://assets/lighting/stage2/backgrounds/stage2_map_normal.png"
+    },
+    "res://assets/stage3/backgrounds/stage3_map.png": {
+      "kind": "background",
+      "normal": "res://assets/lighting/stage3/backgrounds/stage3_map_normal.png"
+    },
+    "res://assets/stage4/backgrounds/stage4_map.png": {
+      "kind": "background",
+      "normal": "res://assets/lighting/stage4/backgrounds/stage4_map_normal.png"
+    },
+    "res://assets/stage5/backgrounds/stage5_map.png": {
+      "kind": "background",
+      "normal": "res://assets/lighting/stage5/backgrounds/stage5_map_normal.png"
+    },
+    "res://assets/stage5/sprites/maid_defeated.png": {
+      "kind": "actor",
+      "normal": "res://assets/lighting/stage5/sprites/maid_defeated_normal.png"
+    },
+    "res://assets/stage5/sprites/gate_esper_a.png": {
+      "kind": "actor",
+      "normal": "res://assets/lighting/stage5/sprites/gate_esper_a_normal.png"
+    },
+    "res://assets/stage5/sprites/gate_esper_b.png": {
+      "kind": "actor",
+      "normal": "res://assets/lighting/stage5/sprites/gate_esper_b_normal.png"
+    }
+  }
+}

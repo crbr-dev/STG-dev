@@ -1,0 +1,44 @@
+{
+  "player": {
+    "path": "res://assets/sprites/player.svg",
+    "hframes": 4,
+    "vframes": 1,
+    "frames": 4,
+    "fps": 8
+  },
+  "drone": {
+    "path": "res://assets/sprites/drone.svg",
+    "hframes": 4,
+    "vframes": 1,
+    "frames": 4,
+    "fps": 8
+  },
+  "tank": {
+    "path": "res://assets/sprites/tank.svg",
+    "hframes": 4,
+    "vframes": 1,
+    "frames": 4,
+    "fps": 8
+  },
+  "boss": {
+    "path": "res://assets/sprites/boss.svg",
+    "hframes": 4,
+    "vframes": 1,
+    "frames": 4,
+    "fps": 8
+  },
+  "midboss": {
+    "path": "res://assets/sprites/midboss.svg",
+    "hframes": 4,
+    "vframes": 1,
+    "frames": 4,
+    "fps": 8
+  },
+  "soldier": {
+    "path": "res://assets/sprites/soldier.svg",
+    "hframes": 4,
+    "vframes": 1,
+    "frames": 4,
+    "fps": 8
+  }
+}

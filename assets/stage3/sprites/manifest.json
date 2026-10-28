@@ -1,0 +1,130 @@
+{
+  "player_idle": {
+    "path": "res://assets/stage3/sprites/player_idle.png",
+    "hframes": 4,
+    "vframes": 1,
+    "frames": 4,
+    "fps": 8,
+    "display_height": 104
+  },
+  "player_fire": {
+    "path": "res://assets/stage3/sprites/player_fire.png",
+    "hframes": 4,
+    "vframes": 1,
+    "frames": 4,
+    "fps": 8,
+    "display_height": 104
+  },
+  "player_focus": {
+    "path": "res://assets/stage3/sprites/player_focus.png",
+    "hframes": 4,
+    "vframes": 1,
+    "frames": 4,
+    "fps": 8,
+    "display_height": 104
+  },
+  "player_fire_left": {
+    "path": "res://assets/stage3/sprites/player_fire_left.png",
+    "hframes": 4,
+    "vframes": 1,
+    "frames": 4,
+    "fps": 8,
+    "display_height": 104
+  },
+  "player_fire_right": {
+    "path": "res://assets/stage3/sprites/player_fire_right.png",
+    "hframes": 4,
+    "vframes": 1,
+    "frames": 4,
+    "fps": 8,
+    "display_height": 104
+  },
+  "magic_fire": {
+    "path": "res://assets/stage3/sprites/magic_fire.png",
+    "hframes": 8,
+    "vframes": 1,
+    "frames": 8,
+    "fps": 16,
+    "display_height": 66
+  },
+  "magic_focus": {
+    "path": "res://assets/stage3/sprites/magic_focus.png",
+    "hframes": 8,
+    "vframes": 1,
+    "frames": 8,
+    "fps": 16,
+    "display_height": 70
+  },
+  "magic_impact": {
+    "path": "res://assets/stage3/sprites/magic_impact.png",
+    "hframes": 8,
+    "vframes": 1,
+    "frames": 8,
+    "fps": 16,
+    "display_height": 130
+  },
+  "tank": {
+    "path": "res://assets/stage3/sprites/tank.png",
+    "hframes": 4,
+    "vframes": 1,
+    "frames": 4,
+    "fps": 8,
+    "display_height": 120
+  },
+  "drone": {
+    "path": "res://assets/stage3/sprites/drone.png",
+    "hframes": 4,
+    "vframes": 1,
+    "frames": 4,
+    "fps": 8,
+    "display_height": 135
+  },
+  "gunship": {
+    "path": "res://assets/stage3/sprites/gunship.png",
+    "hframes": 4,
+    "vframes": 1,
+    "frames": 4,
+    "fps": 8,
+    "display_height": 180
+  },
+  "hoverboat": {
+    "path": "res://assets/stage3/sprites/hoverboat.png",
+    "hframes": 4,
+    "vframes": 1,
+    "frames": 4,
+    "fps": 8,
+    "display_height": 300
+  },
+  "rocket": {
+    "path": "res://assets/stage3/sprites/rocket.png",
+    "hframes": 4,
+    "vframes": 1,
+    "frames": 4,
+    "fps": 8,
+    "display_height": 200
+  },
+  "boss": {
+    "path": "res://assets/stage3/sprites/boss.png",
+    "hframes": 4,
+    "vframes": 1,
+    "frames": 4,
+    "fps": 8,
+    "display_height": 660
+  },
+  "midboss": {
+    "path": "res://assets/stage3/sprites/midboss.png",
+    "hframes": 4,
+    "vframes": 1,
+    "frames": 4,
+    "fps": 8,
+    "display_height": 300
+  },
+  "boss_damaged": {
+    "path": "res://assets/stage3/sprites/boss_damaged.png",
+    "hframes": 4,
+    "vframes": 1,
+    "frames": 4,
+    "fps": 8,
+    "display_height": 660
+  }
+}

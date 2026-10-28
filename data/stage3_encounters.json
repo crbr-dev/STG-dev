@@ -1,0 +1,667 @@
+[
+  {
+    "time": 1.3,
+    "kind": "gunship",
+    "x": 180,
+    "y": -130,
+    "variant": 0
+  },
+  {
+    "time": 2.02,
+    "kind": "gunship",
+    "x": 710,
+    "y": -130,
+    "variant": 1
+  },
+  {
+    "time": 5.8,
+    "kind": "gunship",
+    "x": 340,
+    "y": -130,
+    "variant": 1
+  },
+  {
+    "time": 6.52,
+    "kind": "gunship",
+    "x": 820,
+    "y": -130,
+    "variant": 2
+  },
+  {
+    "time": 10.2,
+    "kind": "gunship",
+    "x": 180,
+    "y": -130,
+    "variant": 2
+  },
+  {
+    "time": 10.2,
+    "kind": "tank",
+    "x": 210,
+    "y": -110,
+    "variant": 0
+  },
+  {
+    "time": 10.92,
+    "kind": "gunship",
+    "x": 710,
+    "y": -130,
+    "variant": 3
+  },
+  {
+    "time": 11.2,
+    "kind": "tank",
+    "x": 735,
+    "y": -110,
+    "variant": 1
+  },
+  {
+    "time": 15.6,
+    "kind": "tank",
+    "x": 210,
+    "y": -110,
+    "variant": 1
+  },
+  {
+    "time": 16.6,
+    "kind": "tank",
+    "x": 735,
+    "y": -110,
+    "variant": 2
+  },
+  {
+    "time": 17.0,
+    "kind": "drone",
+    "x": 158,
+    "y": -85,
+    "variant": 0
+  },
+  {
+    "time": 17.32,
+    "kind": "drone",
+    "x": 378,
+    "y": -85,
+    "variant": 1
+  },
+  {
+    "time": 17.64,
+    "kind": "drone",
+    "x": 598,
+    "y": -85,
+    "variant": 2
+  },
+  {
+    "time": 17.96,
+    "kind": "drone",
+    "x": 818,
+    "y": -85,
+    "variant": 3
+  },
+  {
+    "time": 22.0,
+    "kind": "tank",
+    "x": 210,
+    "y": -110,
+    "variant": 2
+  },
+  {
+    "time": 22.7,
+    "kind": "drone",
+    "x": 102,
+    "y": -85,
+    "variant": 1
+  },
+  {
+    "time": 23.0,
+    "kind": "tank",
+    "x": 735,
+    "y": -110,
+    "variant": 0
+  },
+  {
+    "time": 23.02,
+    "kind": "drone",
+    "x": 322,
+    "y": -85,
+    "variant": 2
+  },
+  {
+    "time": 23.34,
+    "kind": "drone",
+    "x": 542,
+    "y": -85,
+    "variant": 3
+  },
+  {
+    "time": 23.66,
+    "kind": "drone",
+    "x": 762,
+    "y": -85,
+    "variant": 0
+  },
+  {
+    "time": 27.1,
+    "kind": "tank",
+    "x": 210,
+    "y": -110,
+    "variant": 0
+  },
+  {
+    "time": 28.1,
+    "kind": "tank",
+    "x": 735,
+    "y": -110,
+    "variant": 1
+  },
+  {
+    "time": 28.9,
+    "kind": "drone",
+    "x": 158,
+    "y": -85,
+    "variant": 2
+  },
+  {
+    "time": 29.22,
+    "kind": "drone",
+    "x": 378,
+    "y": -85,
+    "variant": 3
+  },
+  {
+    "time": 29.54,
+    "kind": "drone",
+    "x": 598,
+    "y": -85,
+    "variant": 0
+  },
+  {
+    "time": 29.86,
+    "kind": "drone",
+    "x": 818,
+    "y": -85,
+    "variant": 1
+  },
+  {
+    "time": 32.5,
+    "kind": "tank",
+    "x": 210,
+    "y": -110,
+    "variant": 1
+  },
+  {
+    "time": 33.0,
+    "kind": "drone",
+    "x": 102,
+    "y": -85,
+    "variant": 3
+  },
+  {
+    "time": 33.32,
+    "kind": "drone",
+    "x": 322,
+    "y": -85,
+    "variant": 0
+  },
+  {
+    "time": 33.5,
+    "kind": "tank",
+    "x": 735,
+    "y": -110,
+    "variant": 2
+  },
+  {
+    "time": 33.64,
+    "kind": "drone",
+    "x": 542,
+    "y": -85,
+    "variant": 1
+  },
+  {
+    "time": 33.96,
+    "kind": "drone",
+    "x": 762,
+    "y": -85,
+    "variant": 2
+  },
+  {
+    "time": 36.2,
+    "kind": "hoverboat",
+    "x": 245,
+    "y": -200,
+    "variant": 0
+  },
+  {
+    "time": 38.0,
+    "kind": "midboss",
+    "x": 265,
+    "y": -250,
+    "variant": 0
+  },
+  {
+    "time": 45.5,
+    "kind": "gunship",
+    "x": 340,
+    "y": -130,
+    "variant": 3
+  },
+  {
+    "time": 46.22,
+    "kind": "gunship",
+    "x": 820,
+    "y": -130,
+    "variant": 0
+  },
+  {
+    "time": 47.0,
+    "kind": "tank",
+    "x": 210,
+    "y": -110,
+    "variant": 2
+  },
+  {
+    "time": 48.0,
+    "kind": "drone",
+    "x": 158,
+    "y": -85,
+    "variant": 0
+  },
+  {
+    "time": 48.0,
+    "kind": "tank",
+    "x": 735,
+    "y": -110,
+    "variant": 0
+  },
+  {
+    "time": 48.32,
+    "kind": "drone",
+    "x": 378,
+    "y": -85,
+    "variant": 1
+  },
+  {
+    "time": 48.64,
+    "kind": "drone",
+    "x": 598,
+    "y": -85,
+    "variant": 2
+  },
+  {
+    "time": 48.96,
+    "kind": "drone",
+    "x": 818,
+    "y": -85,
+    "variant": 3
+  },
+  {
+    "time": 50.2,
+    "kind": "gunship",
+    "x": 180,
+    "y": -130,
+    "variant": 0
+  },
+  {
+    "time": 50.92,
+    "kind": "gunship",
+    "x": 710,
+    "y": -130,
+    "variant": 1
+  },
+  {
+    "time": 52.0,
+    "kind": "rocket",
+    "x": 720,
+    "y": -180,
+    "variant": 0
+  },
+  {
+    "time": 54.2,
+    "kind": "tank",
+    "x": 210,
+    "y": -110,
+    "variant": 0
+  },
+  {
+    "time": 55.2,
+    "kind": "tank",
+    "x": 735,
+    "y": -110,
+    "variant": 1
+  },
+  {
+    "time": 57.3,
+    "kind": "drone",
+    "x": 102,
+    "y": -85,
+    "variant": 1
+  },
+  {
+    "time": 57.62,
+    "kind": "drone",
+    "x": 322,
+    "y": -85,
+    "variant": 2
+  },
+  {
+    "time": 57.94,
+    "kind": "drone",
+    "x": 542,
+    "y": -85,
+    "variant": 3
+  },
+  {
+    "time": 58.26,
+    "kind": "drone",
+    "x": 762,
+    "y": -85,
+    "variant": 0
+  },
+  {
+    "time": 60.5,
+    "kind": "tank",
+    "x": 210,
+    "y": -110,
+    "variant": 1
+  },
+  {
+    "time": 61.5,
+    "kind": "tank",
+    "x": 735,
+    "y": -110,
+    "variant": 2
+  },
+  {
+    "time": 62.8,
+    "kind": "rocket",
+    "x": 235,
+    "y": -180,
+    "variant": 1
+  },
+  {
+    "time": 65.5,
+    "kind": "gunship",
+    "x": 340,
+    "y": -130,
+    "variant": 1
+  },
+  {
+    "time": 66.1,
+    "kind": "tank",
+    "x": 210,
+    "y": -110,
+    "variant": 2
+  },
+  {
+    "time": 66.22,
+    "kind": "gunship",
+    "x": 820,
+    "y": -130,
+    "variant": 2
+  },
+  {
+    "time": 67.1,
+    "kind": "tank",
+    "x": 735,
+    "y": -110,
+    "variant": 0
+  },
+  {
+    "time": 67.5,
+    "kind": "drone",
+    "x": 158,
+    "y": -85,
+    "variant": 2
+  },
+  {
+    "time": 67.82,
+    "kind": "drone",
+    "x": 378,
+    "y": -85,
+    "variant": 3
+  },
+  {
+    "time": 68.14,
+    "kind": "drone",
+    "x": 598,
+    "y": -85,
+    "variant": 0
+  },
+  {
+    "time": 68.46,
+    "kind": "drone",
+    "x": 818,
+    "y": -85,
+    "variant": 1
+  },
+  {
+    "time": 70.2,
+    "kind": "hoverboat",
+    "x": 740,
+    "y": -170,
+    "variant": 1
+  },
+  {
+    "time": 73.0,
+    "kind": "drone",
+    "x": 102,
+    "y": -85,
+    "variant": 3
+  },
+  {
+    "time": 73.2,
+    "kind": "tank",
+    "x": 210,
+    "y": -110,
+    "variant": 0
+  },
+  {
+    "time": 73.32,
+    "kind": "drone",
+    "x": 322,
+    "y": -85,
+    "variant": 0
+  },
+  {
+    "time": 73.64,
+    "kind": "drone",
+    "x": 542,
+    "y": -85,
+    "variant": 1
+  },
+  {
+    "time": 73.96,
+    "kind": "drone",
+    "x": 762,
+    "y": -85,
+    "variant": 2
+  },
+  {
+    "time": 74.2,
+    "kind": "tank",
+    "x": 735,
+    "y": -110,
+    "variant": 1
+  },
+  {
+    "time": 82.0,
+    "kind": "gunship",
+    "x": 180,
+    "y": -130,
+    "variant": 2
+  },
+  {
+    "time": 82.72,
+    "kind": "gunship",
+    "x": 710,
+    "y": -130,
+    "variant": 3
+  },
+  {
+    "time": 84.0,
+    "kind": "hoverboat",
+    "x": 310,
+    "y": -170,
+    "variant": 0
+  },
+  {
+    "time": 86.0,
+    "kind": "drone",
+    "x": 158,
+    "y": -85,
+    "variant": 0
+  },
+  {
+    "time": 86.32,
+    "kind": "drone",
+    "x": 378,
+    "y": -85,
+    "variant": 1
+  },
+  {
+    "time": 86.64,
+    "kind": "drone",
+    "x": 598,
+    "y": -85,
+    "variant": 2
+  },
+  {
+    "time": 86.96,
+    "kind": "drone",
+    "x": 818,
+    "y": -85,
+    "variant": 3
+  },
+  {
+    "time": 91.5,
+    "kind": "tank",
+    "x": 210,
+    "y": -110,
+    "variant": 1
+  },
+  {
+    "time": 92.5,
+    "kind": "tank",
+    "x": 735,
+    "y": -110,
+    "variant": 2
+  },
+  {
+    "time": 96.4,
+    "kind": "gunship",
+    "x": 340,
+    "y": -130,
+    "variant": 3
+  },
+  {
+    "time": 97.0,
+    "kind": "rocket",
+    "x": 690,
+    "y": -180,
+    "variant": 2
+  },
+  {
+    "time": 97.12,
+    "kind": "gunship",
+    "x": 820,
+    "y": -130,
+    "variant": 0
+  },
+  {
+    "time": 98.4,
+    "kind": "tank",
+    "x": 210,
+    "y": -110,
+    "variant": 2
+  },
+  {
+    "time": 99.4,
+    "kind": "tank",
+    "x": 735,
+    "y": -110,
+    "variant": 0
+  },
+  {
+    "time": 101.5,
+    "kind": "drone",
+    "x": 102,
+    "y": -85,
+    "variant": 1
+  },
+  {
+    "time": 101.82,
+    "kind": "drone",
+    "x": 322,
+    "y": -85,
+    "variant": 2
+  },
+  {
+    "time": 102.14,
+    "kind": "drone",
+    "x": 542,
+    "y": -85,
+    "variant": 3
+  },
+  {
+    "time": 102.46,
+    "kind": "drone",
+    "x": 762,
+    "y": -85,
+    "variant": 0
+  },
+  {
+    "time": 103.0,
+    "kind": "gunship",
+    "x": 180,
+    "y": -130,
+    "variant": 0
+  },
+  {
+    "time": 103.0,
+    "kind": "rocket",
+    "x": 210,
+    "y": -180,
+    "variant": 3
+  },
+  {
+    "time": 103.72,
+    "kind": "gunship",
+    "x": 710,
+    "y": -130,
+    "variant": 1
+  },
+  {
+    "time": 108.0,
+    "kind": "drone",
+    "x": 158,
+    "y": -85,
+    "variant": 2
+  },
+  {
+    "time": 108.32,
+    "kind": "drone",
+    "x": 378,
+    "y": -85,
+    "variant": 3
+  },
+  {
+    "time": 108.64,
+    "kind": "drone",
+    "x": 598,
+    "y": -85,
+    "variant": 0
+  },
+  {
+    "time": 108.96,
+    "kind": "drone",
+    "x": 818,
+    "y": -85,
+    "variant": 1
+  },
+  {
+    "time": 109.0,
+    "kind": "boss",
+    "x": 480,
+    "y": -420,
+    "variant": 0
+  }
+]

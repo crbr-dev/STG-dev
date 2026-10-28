@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="tile" x1="50" y1="24" x2="460" y2="510" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#202a50"/><stop offset="1" stop-color="#080e23"/>
+    </linearGradient>
+    <linearGradient id="warm" x1="191" y1="116" x2="309" y2="271" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff557b"/><stop offset=".34" stop-color="#ff9c42"/>
+      <stop offset=".70" stop-color="#ffe765"/><stop offset="1" stop-color="#73ed9c"/>
+    </linearGradient>
+    <linearGradient id="cool" x1="191" y1="116" x2="309" y2="271" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#73ed9c"/><stop offset=".5" stop-color="#44dfef"/><stop offset="1" stop-color="#6384ff"/>
+    </linearGradient>
+    <linearGradient id="violet" x1="191" y1="116" x2="309" y2="271" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6384ff"/><stop offset=".5" stop-color="#c378ff"/><stop offset="1" stop-color="#ff77bc"/>
+    </linearGradient>
+    <linearGradient id="stem" x1="253" y1="271" x2="230" y2="435" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6df2bc"/><stop offset=".5" stop-color="#47dbe6"/><stop offset="1" stop-color="#9b88ff"/>
+    </linearGradient>
+    <path id="leaf" d="M256 278C236 250 177 211 176 155C175 112 224 91 256 128C288 91 337 112 336 155C335 211 276 250 256 278Z"/>
+  </defs>
+  <rect x="8" y="8" width="496" height="496" rx="112" fill="url(#tile)"/>
+  <rect x="19" y="19" width="474" height="474" rx="103" fill="none" stroke="#cadbff" stroke-opacity=".17" stroke-width="3"/>
+  <circle cx="256" cy="250" r="174" fill="none" stroke="#9bb6ff" stroke-opacity=".08" stroke-width="2"/>
+  <path d="M256 274C294 335 290 386 235 430" fill="none" stroke="#080e23" stroke-width="42" stroke-linecap="round"/>
+  <path d="M256 274C294 335 290 386 235 430" fill="none" stroke="url(#stem)" stroke-width="24" stroke-linecap="round"/>
+  <g stroke="#09132d" stroke-width="10" stroke-linejoin="round">
+    <use href="#leaf" transform="rotate(-105 256 278)" fill="url(#cool)"/>
+    <use href="#leaf" transform="rotate(105 256 278)" fill="url(#violet)"/>
+    <use href="#leaf" fill="url(#warm)"/>
+  </g>
+  <g fill="none" stroke="#fff" stroke-opacity=".46" stroke-width="5" stroke-linecap="round">
+    <path d="M256 256V161"/>
+    <path d="M236 277L143 302"/>
+    <path d="M276 277L369 302"/>
+  </g>
+  <circle cx="256" cy="278" r="15" fill="#e9fff6"/>
+  <circle cx="256" cy="278" r="7" fill="#93e7d5"/>
+</svg>

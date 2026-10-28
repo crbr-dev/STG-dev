@@ -1,0 +1,59 @@
+{
+  "id": 1,
+  "name": "THE SCHOOL UNDER SIEGE",
+  "hero": "YUSUKE SAGAMI",
+  "duration": 180.0,
+  "boss_time": 120.0,
+  "midboss_active_time": 45.0,
+  "background_directory": "res://assets/backgrounds",
+  "map": "res://assets/backgrounds/stage1_map.png",
+  "background_count": 4,
+  "sprite_directory": "res://assets/sprites",
+  "patterns": "res://scripts/enemy_patterns.gd",
+  "camera": [
+    [
+      0,
+      4736
+    ],
+    [
+      30,
+      4352
+    ],
+    [
+      42,
+      3000
+    ],
+    [
+      61,
+      3000
+    ],
+    [
+      70,
+      2880
+    ],
+    [
+      83,
+      1856
+    ],
+    [
+      104,
+      1440
+    ],
+    [
+      120,
+      416
+    ],
+    [
+      148,
+      0
+    ]
+  ],
+  "phase_times": [
+    35.5,
+    82.0,
+    119.5
+  ],
+  "intro": {
+    "path": "res://assets/cinematics/awakening.ogv"
+  }
+}

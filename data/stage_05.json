@@ -1,0 +1,165 @@
+{
+  "id": 5,
+  "name": "WANGAN STRONG HOLD",
+  "hero": "SELECT YOUR ESPER",
+  "duration": 555.0,
+  "boss_time": 295.0,
+  "boss_attack_time": 306.0,
+  "boss_label": "THE FINAL ESPER",
+  "gate_time": 151.0,
+  "gate_hold": 205.0,
+  "night_start": 315.0,
+  "night_scroll_speed": 21.0,
+  "lighting_indoor_camera_start": 5800.0,
+  "lighting_indoor_camera_end": 4900.0,
+  "background_directory": "res://assets/stage5/backgrounds",
+  "map": "res://assets/stage5/backgrounds/stage5_map.png",
+  "background_count": 8,
+  "sprite_directory": "res://assets/stage5/sprites",
+  "patterns": "res://scripts/stage5_patterns.gd",
+  "camera": [],
+  "phase_times": [
+    35.0,
+    69.5,
+    99.5,
+    150.5,
+    209.5,
+    244.5,
+    279.5,
+    304.5
+  ],
+  "large_enemy_kinds": [
+    "round_barge",
+    "yellow_heavy_tank",
+    "green_heavy_tank",
+    "gate_keeper",
+    "boss"
+  ],
+  "ground_kinds": [
+    "yellow_jeep",
+    "disk_turret",
+    "yellow_heavy_tank",
+    "green_heavy_tank",
+    "maid",
+    "tank",
+    "soldier"
+  ],
+  "ground_roles": {
+    "yellow_jeep": "tank",
+    "disk_turret": "turret",
+    "yellow_heavy_tank": "tank",
+    "green_heavy_tank": "tank",
+    "maid": "soldier"
+  },
+  "footprints": {
+    "yellow_jeep": [
+      58,
+      40
+    ],
+    "disk_turret": [
+      82,
+      72
+    ],
+    "yellow_heavy_tank": [
+      110,
+      100
+    ],
+    "green_heavy_tank": [
+      135,
+      95
+    ],
+    "maid": [
+      11,
+      10
+    ]
+  },
+  "enemy_stats": {
+    "yellow_jeep": [
+      245,
+      85,
+      40
+    ],
+    "disk_turret": [
+      1137.5,
+      0,
+      70
+    ],
+    "yellow_heavy_tank": [
+      1925,
+      45,
+      95
+    ],
+    "green_heavy_tank": [
+      3150,
+      40,
+      110
+    ],
+    "maid": [
+      105,
+      100,
+      23
+    ],
+    "tank": [
+      472.5,
+      60,
+      46
+    ],
+    "soldier": [
+      42,
+      100,
+      20
+    ],
+    "drone": [
+      131.25,
+      145,
+      32
+    ],
+    "gunship": [
+      490,
+      110,
+      58
+    ],
+    "hoverboat": [
+      1925,
+      100,
+      78
+    ],
+    "silver_scout": [
+      119,
+      155,
+      40
+    ],
+    "orange_pod_drone": [
+      367.5,
+      100,
+      52
+    ],
+    "round_barge": [
+      4375,
+      85,
+      105
+    ],
+    "gate_keeper": [
+      66000,
+      80,
+      210
+    ],
+    "boss": [
+      60000,
+      0,
+      220
+    ]
+  },
+  "queen_hp": 95000.0,
+  "queen_radius": 60.0,
+  "throne_anchor": [
+    360,
+    2080
+  ],
+  "statue_mount_offset": [
+    -67,
+    -159
+  ],
+  "statue_center_y": 300.0,
+  "maid_scale": 0.68
+}
